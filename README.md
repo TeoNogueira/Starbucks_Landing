@@ -1,5 +1,5 @@
 <div align="center" id="top">
-  <h3>Mobile Legends Lading Page</h3>
+  <h3>StarBucks Lading Page</h3>
   <img height="420" src="https://github.com/TeoNogueira/Starbucks_Landing/blob/master/assets/gif/starGif.gif">
   
   &#xa0;
